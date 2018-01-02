@@ -1,6 +1,12 @@
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
+
+## Configuration.h adjusted for Geeetech i3 Pro with the following features:
+ - Ramps 1.4 board
+ - Arduino Mega 2560
+ - 3D Touch Sensor (using Z-min endstop and Servo0 pins)
+
 ## Marlin 1.1
 
 Marlin 1.1 represents an evolutionary leap over Marlin 1.0.2. It is the result of over two years of effort by several volunteers around the world who have paid meticulous and sometimes obsessive attention to every detail. For this release we focused on code quality, performance, stability, and overall user experience. Several new features have also been added, many of which require no extra hardware.
